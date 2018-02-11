@@ -1,0 +1,1 @@
+module.exports.SEED = '@#!!1este*+MNB?^:[]es#%acgyun$%seed@#WT$%&-dificil';
