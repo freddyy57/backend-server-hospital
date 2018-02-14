@@ -11,7 +11,7 @@ npm install
 
 Para arrancar este backend escribir en la consola situado en la carpeta que contiene este documento:
 
-````
+```
 npm start
 
 ```
